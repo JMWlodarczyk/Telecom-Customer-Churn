@@ -6,7 +6,7 @@
 
 ## About the project
 
-![](DB_Churn_Image.png)
+![](JWlodarczykDB_Churn_Image.png)
 
 ### Purpose
 
