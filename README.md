@@ -6,7 +6,7 @@
 
 ## About the project
 
-![](DashBoard_Churn.png)
+![](DB_Churn_Image.png)
 
 ### Purpose
 
